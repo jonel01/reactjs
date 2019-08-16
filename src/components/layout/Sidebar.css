@@ -1,0 +1,11 @@
+.sidebar{
+    background-color: slategrey;
+    display: flex;
+    justify-content: left;
+    width: 250px;
+}
+.sidebar ul li{
+    display: block;
+    list-style: none;
+    padding-top: 30px;
+}

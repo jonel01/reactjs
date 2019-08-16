@@ -1,0 +1,14 @@
+.color{
+    color: white;
+}
+li{
+    align-items: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+ul li{
+    display: inline;
+    list-style: none;
+    padding-right: 35px;    
+}
