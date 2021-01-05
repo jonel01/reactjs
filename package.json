@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/react-sidebar": "^3.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "firebase": "^6.3.5",
     "prop-types": "^15.7.2",
